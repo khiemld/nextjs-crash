@@ -14,7 +14,7 @@
   .flex-between {
     @apply flex justify-between items-center;
   }
-
+  
   .text-30-extrabold {
     @apply text-[30px] font-extrabold text-white;
   }
